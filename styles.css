@@ -42,7 +42,6 @@ button {
   background-color: yellow;
   background-image: linear-gradient(yellow, chocolate);
   border: 3px solid chocolate;
-  align-items: center;
 }
 
 #content {
